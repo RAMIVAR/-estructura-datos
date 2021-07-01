@@ -1,4 +1,4 @@
-
+//fibonacci
 import java.util.Scanner;
 
 public class fibonacci {
@@ -22,6 +22,7 @@ for (int i=0; primero<=Limite; i++){
 System.out.println(media);
 //System.out.println(primero);
 //System.out.println(segundo);
+
 
 
 }
